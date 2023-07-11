@@ -89,3 +89,24 @@ margin-left: 17%;
 .paragraph{
     text-align: center;
 }
+.bg-container{
+    width: 1440px;
+    text-align: center;
+    height: 449px;
+    margin: 2%;
+    /* align-items: center; */
+justify-content: center;    
+border-radius: 8px;
+align-content: center;
+padding: 8px 8px 8px 8px ;
+    
+
+ 
+}
+.flex{
+    width: 700px;
+    height: 64px;
+    align-content: justify;
+
+
+}
