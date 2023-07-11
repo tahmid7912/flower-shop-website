@@ -15,6 +15,7 @@
     /* justify-items: center; */
     align-items: center;
     text-align: center;
+    /* padding: 2%; */
 }
     
 
@@ -130,4 +131,24 @@ margin: auto;
 margin-bottom: 30%; */
 margin-top: 20px;
 
+}
+.color-flower{
+    color: rgb(172, 0, 120);
+}
+.footer{
+    background-color: black;
+    height: 349px;
+    width: 1322px;
+    color: white;
+    /* align-content: center; */
+    /* align-items: center; */
+    text-align: center;
+    font-size: 30px;
+    font-style: normal;
+    display: block;
+    align-items: center;
+    padding: 6%;
+}
+.last{
+    color: #94919b;
 }
