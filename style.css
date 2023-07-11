@@ -1,13 +1,12 @@
 .banner-img{
-    width: 400px;
-    height: 350px;
-    justify-content: center;
+    width: 450px;
+    height: 400x;
     position: relative;
-    justify-items: center;
     align-items: center;
+    justify-content: space-around;
 }                   
 .banner-container{
-    justify-content: center; 
+    justify-content: space-around; 
     display: flex;
     background-color: rgb(255, 235, 235);
     height: 100vh;
@@ -33,9 +32,9 @@
 .text{
     color: rgb(150, 64, 143);
     font-size: 18px;
-    text-align: justify;
+    /* text-align: justify; */
  
-    /* align-items: justify; */
+    align-items: center;
 }
 .btn{   
     padding: 20px 30px;
@@ -45,7 +44,7 @@
     border-radius: 5px;
 }
 .tittle-clr{
-    color: rebeccapurple;
+    color: rgb(204, 95, 62);
    
 
 }
@@ -58,3 +57,35 @@ margin-top: 20px;
 margin-bottom: 20px;
 
     }
+.main-part{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(241, 216, 216);
+    border-radius: 8px;
+    text-align: center;
+align-items: center;    }
+.tittle-cl{
+    color: rgb(104, 22, 236);
+}
+.heading{   
+justify-content: space-around;
+
+}
+.photo{
+    display: flex;
+    
+    /* padding: 16%; */
+    height: 280px;
+    width: 250px;
+align-content: center;    
+margin-left: 17%;
+}
+.heading{
+    text-align: center;
+
+
+
+}
+.paragraph{
+    text-align: center;
+}
