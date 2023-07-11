@@ -102,11 +102,32 @@ padding: 8px 8px 8px 8px ;
     
 
  
-}
-.flex{
-    width: 700px;
-    height: 64px;
-    align-content: justify;
 
+
+
+}
+.header{
+    background-color: aqua;
+    background-image: url('../web-developer-portfolio/images/developer.png');
+}
+.latest-cover{
+    background-color: rgb(93, 158, 158);
+background-image:  url('./flower asset/Rectangle\ 9.png');
+width: 800px;
+height: 200px;
+/* margin: auto; */
+background-repeat: no-repeat;
+background-size: cover;
+/* align-content: center; */
+/* justify-content: center;s */
+text-align: center;
+align-items: center;
+/* padding: 20% 20% 20% 20%; */
+/* border-radius: 10px; */
+padding: 5%;
+margin: auto;
+/* margin-top: 30%;
+margin-bottom: 30%; */
+margin-top: 20px;
 
 }
